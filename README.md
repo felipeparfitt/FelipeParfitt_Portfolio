@@ -1,2 +1,2 @@
-# felipeparfitt_Portfolio
+# FelipeParfitt_Portfolio
 Data Science portfolio
