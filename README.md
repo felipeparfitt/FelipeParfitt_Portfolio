@@ -2,7 +2,7 @@
 Data Science portfolio
 
 
-# [Project 1: ](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/main/Data%20projects/clustering-country-data-kaggle.ipynb)
+# [Project 1: ](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/main/Data%20projects/CountryData_Clustering/clustering-country-data-kaggle.ipynb)
 
 - This is a kaggle dataset for clustering the Countries by using Unsupervised Learning for HELP International. (resume, techinque)
 - Features quality were improved by normalization techinique. 
