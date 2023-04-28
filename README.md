@@ -17,5 +17,4 @@ Data Science portfolio
 - NaN values in the features were filled with the mode, median, or another suitable categorical value such as 'None'. Categorical features were converted into dummy variables, taking into account the dependent variable SalePrice. One-hot encoding was applied.
 - All features with non-Gaussian distributions were transformed using the boxcox1p transformation.
 - An ensemble of models was used to estimate house prices, including linear regression models such as Lasso and Ridge, decision tree models such as GradientBoostingRegressor and XGBRegressor, and also the StackingCVRegressor.
-dd
-ff
+![](./House%20project/SalePrice_var.png)
