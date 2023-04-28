@@ -18,4 +18,4 @@ Data Science portfolio
 - All features with non-Gaussian distributions were transformed using the boxcox1p transformation.
 - An ensemble of models was used to estimate house prices, including linear regression models such as Lasso and Ridge, decision tree models such as GradientBoostingRegressor and XGBRegressor, and also the StackingCVRegressor.
 
-![](./Data%20projects/House%20project/SalePrice_varj.jpg)
+![](./Data%20projects/House%20project/SalePrice_var.png)
