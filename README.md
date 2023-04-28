@@ -10,7 +10,7 @@ Data Science portfolio
 - K-means model and PCA were applyed to data solve the problem.
 - By dividing the data into three clusters, it is possible to identify three groups of countries: those in green with good indices that do not require assistance (North America, Western Europe, and some parts of Oceania); those in yellow with moderate indices that may require assistance (South America, most of Asia, North and South Africa); and those in red with low indices that require assistance (Central Africa and some countries in the Middle East).
 - 
-<img src="./Data%20projects/CountryData_Clustering/color_map.jpg" alt= “” width="1200" height="800">
+<img src="./Data%20projects/CountryData_Clustering/color_map.jpg" alt= “” width="690">
 
 ## [Project 2: House Prices - Advanced Regression Techniques](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/main/Data%20projects/House%20project/house-price-kaggle.ipynb)
 
