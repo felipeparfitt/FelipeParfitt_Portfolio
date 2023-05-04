@@ -15,7 +15,9 @@ Data Science portfolio
 ## [Project 2: Supervised Learning Classification of Spaceship Titanic Passengers](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/main/Data%20projects/SpaceshipTitanic%20project/spaceshiptitanic-kagglecompetition.ipynb)
 
 - This Kaggle competition involves using supervised learning to predict which passengers were transported to an alternate dimension.
-
+- Some features were created to fill NaNs by grouping passengers based on their close relationships. For example, passengers with the same cabin or last name are likely to exhibit similar behavior. Basically, categorical features were filled first by the mode of each group defined by the new column 'Group', then by the mode of each group defined by the new column 'LastName', and lastly by the mode of the entire column.
+- NaN values in numerical features have been filled with the mode, which is basically zero, implying that the passenger has not spent anything.
+- The prediction was made by a soft voting ensemble of models, using Logistic Regression, KNeighbors, Gradient Boosting, XGB, and StackingCV.
 
 
 ## [Project 3: House Prices - Advanced Regression Techniques](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/main/Data%20projects/House%20project/house-price-kaggle.ipynb)
