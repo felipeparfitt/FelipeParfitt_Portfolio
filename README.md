@@ -19,6 +19,7 @@ Data Science portfolio
 - NaN values in numerical features have been filled with the mode, which is basically zero, implying that the passenger has not spent anything.
 - The prediction was made by a soft voting ensemble of models, using Logistic Regression, KNeighbors, Gradient Boosting, XGB, and StackingCV.
 
+<img src="./Data%20projects/SpaceshipTitanic%20project/corr_image.png" alt="drawing" width="650"/>
 
 ## [Project 3: House Prices - Advanced Regression Techniques](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/main/Data%20projects/House%20project/house-price-kaggle.ipynb)
 
