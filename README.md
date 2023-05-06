@@ -14,7 +14,7 @@ Data Science portfolio
 
 And following a dashboard made in Power BI with different colors representing each cluster:
 
-<img src="./Data%20projects/CountryData_Clustering/color_map_att.png" alt="drawing" width="650"/>
+<img src="./Data%20projects/CountryData_Clustering/CountryCluster.png" alt="drawing" width="650"/>
 
 ## [Project 2: Supervised Learning Classification of Spaceship Titanic Passengers](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/main/Data%20projects/SpaceshipTitanic%20project/spaceshiptitanic-kagglecompetition.ipynb)
 
