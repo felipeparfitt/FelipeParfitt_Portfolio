@@ -12,6 +12,11 @@ Data Science portfolio
 
 <img src="./Data%20projects/CountryData_Clustering/color_map.jpg" alt="drawing" width="650"/>
 
+And following a dashboard made in Power BI with different colors representing each cluster:
+
+<img src="./Data%20projects/CountryData_Clustering/CountryCluster.pdf" alt="drawing" width="650"/>
+
+
 ## [Project 2: Supervised Learning Classification of Spaceship Titanic Passengers](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/main/Data%20projects/SpaceshipTitanic%20project/spaceshiptitanic-kagglecompetition.ipynb)
 
 - This Kaggle competition involves using supervised learning to predict which passengers were transported to an alternate dimension.
