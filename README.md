@@ -10,7 +10,7 @@ Data Science portfolio
 - K-means model and PCA were applied to data in order to solve the problem.
 - By dividing the data into three clusters, it is possible to identify three groups of countries: those in green with good indices that do not require assistance (North America, Western Europe, and some parts of Oceania); those in yellow with moderate indices that may require assistance (South America, most of Asia, North and South Africa); and those in red with low indices that require assistance (Central Africa and some countries in the Middle East).
 
-<img src="./Data%20projects/CountryData_Clustering/color_map.jpg" alt="drawing" width="650"/>
+<img src="./Data%20projects/CountryData_Clustering/color_map_att.jpg" alt="drawing" width="650"/>
 
 And following a dashboard made in Power BI with different colors representing each cluster:
 
