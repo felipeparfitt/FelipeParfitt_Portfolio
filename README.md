@@ -33,3 +33,8 @@ And following a dashboard made in Power BI with different colors representing ea
 - An ensemble of models was used to estimate house prices, including linear regression models such as Lasso and Ridge, decision tree models such as GradientBoostingRegressor and XGBRegressor, and also the StackingCVRegressor.
 
 <img src="./Data%20projects/House%20project/SalePrice_var.png" alt="drawing" width="650"/>
+
+
+## [Project 4: Example of Sales Dashboard](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/7af446acd4738d169c5af9c6b1367c29a1b6d039/Data%20projects/ContosoSales%20Project/MS%20data.png)
+
+<img src="./Data%20projects/ContosoSales%20Project/MS%20data.png" alt="drawing" width="650"/>
