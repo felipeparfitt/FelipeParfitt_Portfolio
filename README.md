@@ -35,6 +35,11 @@ And following a dashboard made in Power BI with different colors representing ea
 <img src="./Data%20projects/House%20project/SalePrice_var.png" alt="drawing" width="650"/>
 
 
-## [Project 4: Example of Sales Dashboard](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/7af446acd4738d169c5af9c6b1367c29a1b6d039/Data%20projects/ContosoSales%20Project/MS%20data.png)
+## [Project 4: Power BI Dashboards](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/7af446acd4738d169c5af9c6b1367c29a1b6d039/Data%20projects/ContosoSales%20Project/MS%20data.png)
+
+### Example of a sales dashboard
+
+- The data has been imported into Power BI by SQL Server.
+- 
 
 <img src="./Data%20projects/ContosoSales%20Project/MS%20data.png" alt="drawing" width="650"/>
