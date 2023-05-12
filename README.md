@@ -40,6 +40,5 @@ And following a dashboard made in Power BI with different colors representing ea
 ### Example of a sales dashboard
 
 - The data has been imported into Power BI by SQL Server.
-- 
 
-<img src="./Data%20projects/ContosoSales%20Project/MS%20data.png" alt="drawing" width="650"/>
+<img src="./Data%20projects/ContosoSales%20Project/MS%20DATA%20NOVO.png" alt="drawing" width="650"/>
