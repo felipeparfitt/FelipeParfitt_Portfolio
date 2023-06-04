@@ -35,16 +35,16 @@ And following a dashboard made in Power BI with different colors representing ea
 <img src="./Data%20projects/House%20project/SalePrice_var.png" alt="drawing" width="650"/>
 
 
-## [Project 4: Power BI Dashboards](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/7af446acd4738d169c5af9c6b1367c29a1b6d039/Data%20projects/ContosoSales%20Project/MS%20data.png)
+## Project 4: Power BI Dashboards
 
-### Example of a sales dashboard
+### [Sales dashboard Example](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/7af446acd4738d169c5af9c6b1367c29a1b6d039/Data%20projects/ContosoSales%20Project/MS%20data.png)
 
 - The data has been imported into Power BI by SQL Server.
 
 <img src="./Data%20projects/ContosoSales%20Project/MS%20DATA%20NOVO.png" alt="drawing" width="650"/>
 
-### [Web Scraping with Python - Brasileirão 2022](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/f39b881be347485545a7640be978d59031e45ddc/Data%20projects/Brasileirao%20Project)
+### [Web Scraping With Python - Brasileirão 2022](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/739405704ea7dd4d41582503c49f1351e0881fcc/Data%20projects/Brasileirao%20Project/WebScraping_Brasileirao.ipynb)
 
 - This is a project to extract game information data from the [cbf website](https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2022) using the Requests and BeautifulSoup libraries in Python.
-- 
+
 <img src="./Data%20projects/Brasileirao%20Project/Brasileir%C3%A3oS%C3%A9rie_A_2022_BI.png" alt="drawing" width="650"/>
