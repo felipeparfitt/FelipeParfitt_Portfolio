@@ -42,3 +42,8 @@ And following a dashboard made in Power BI with different colors representing ea
 - The data has been imported into Power BI by SQL Server.
 
 <img src="./Data%20projects/ContosoSales%20Project/MS%20DATA%20NOVO.png" alt="drawing" width="650"/>
+
+### [Web Scraping Brasileira 2022](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/f39b881be347485545a7640be978d59031e45ddc/Data%20projects/Brasileirao%20Project)
+
+
+<img src="./Data%20projects/Brasileirao%20Project/Brasileir%C3%A3oS%C3%A9rie_A_2022_BI.png" alt="drawing" width="650"/>
