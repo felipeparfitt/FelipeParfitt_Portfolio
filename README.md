@@ -37,7 +37,7 @@ And following a dashboard made in Power BI with different colors representing ea
 
 ## Project 4: Power BI Dashboards
 
-### [Sales dashboard Example](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/7af446acd4738d169c5af9c6b1367c29a1b6d039/Data%20projects/ContosoSales%20Project/MS%20data.png)
+### [Sales Dashboard Example](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/7af446acd4738d169c5af9c6b1367c29a1b6d039/Data%20projects/ContosoSales%20Project/MS%20data.png)
 
 - The data has been imported into Power BI by SQL Server.
 
