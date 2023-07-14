@@ -13,8 +13,8 @@ Data Science portfolio
 - After selecting the best model, the optimal threshold was chosen to maximize the F1-score metric, achieving a good and balanced trade-off between recall and precision.
 - Shapley values were utilized to determine the importance of each feature in the model. These values allowed us to examine why the model correctly predicted instances (both true positives and true negatives) and which feature contributed to those predictions. Additionally, Shapley values provided insights into the reasons behind incorrect predictions (both false positives and false negatives) and the corresponding features responsible for those errors.
 - What else could be done? The features with near-zero Shapley values should be either removed or combined with others.
-- 
-<img src="./Data%20projects/CountryData_Clustering/color_map_att.png" alt="drawing" width="650"/>
+ 
+<img src="./Data%20projects/Fraud%20Detection%20Project/Shapley%20values.png" alt="drawing" width="650"/>
 
 ## [Project 2: Clustering Countries with Unsupervised Learning for HELP International](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/main/Data%20projects/CountryData_Clustering/clustering-country-data-kaggle.ipynb)
 
