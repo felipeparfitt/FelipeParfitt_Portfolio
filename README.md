@@ -3,7 +3,7 @@ Data Science portfolio
 
 <style>body {text-align: justify}</style>
 
-## [Project 1: Credit Card Fraud Detection]()
+## [Project 1: Credit Card Fraud Detection](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/2a52d143d19e7a6beacb957b02825cceadb15535/Data%20projects/Fraud%20Detection%20Project/Fraud%20Detection%20in%20Credit%20Card%20Dataset.ipynb)
 
 - An exploratory data analysis was conducted to examine the skewness and correlation of the dataset.
 - Average precision, recall, precision, and F1-score are all metrics used to evaluate the model's performance. Another metric that could be utilized is the F-beta score, which allows for giving slightly more weight to recall and reducing false negatives.
