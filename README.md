@@ -3,7 +3,20 @@ Data Science portfolio
 
 <style>body {text-align: justify}</style>
 
-## [Project 1: Clustering Countries with Unsupervised Learning for HELP International](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/main/Data%20projects/CountryData_Clustering/clustering-country-data-kaggle.ipynb)
+## [Project 1: Credit Card Fraud Detection]()
+
+- An exploratory data analysis was conducted to examine the skewness and correlation of the dataset.
+- Average precision, recall, precision, and F1-score are all metrics used to evaluate the model's performance. Another metric that could be utilized is the F-beta score, which allows for giving slightly more weight to recall and reducing false negatives.
+- To address the issue of imbalanced data, such as in the case of fraud detection, undersampling methods (Random Undersampling, Nearest Neighbors) and oversampling method (SMOTE) were employed to enhance the model's results.
+- In relation to the original dataset, the train, validation, and test sets were split based on chronological order, with a gap of 5% of the data (using a prequential approach with a delay). This approach was adopted to ensure that the model always predicts future transactions using past data.
+- To improve the hyperparameters of the models, optimization was performed using the Optuna library with the TPE optimizer. The metric used for optimization was the average precision, aiming to maximize it and select the best model configuration.
+- After selecting the best model, the optimal threshold was chosen to maximize the F1-score metric, achieving a good and balanced trade-off between recall and precision.
+- Shapley values were utilized to determine the importance of each feature in the model. These values allowed us to examine why the model correctly predicted instances (both true positives and true negatives) and which feature contributed to those predictions. Additionally, Shapley values provided insights into the reasons behind incorrect predictions (both false positives and false negatives) and the corresponding features responsible for those errors.
+- What else could be done? The features with near-zero Shapley values should be either removed or combined with others.
+- 
+<img src="./Data%20projects/CountryData_Clustering/color_map_att.png" alt="drawing" width="650"/>
+
+## [Project 2: Clustering Countries with Unsupervised Learning for HELP International](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/main/Data%20projects/CountryData_Clustering/clustering-country-data-kaggle.ipynb)
 
 - This is a kaggle dataset for clustering the countries by using Unsupervised Learning for HELP International.
 - The quality of the features was improved using normalization techniques. 
@@ -16,7 +29,7 @@ And following a dashboard made in Power BI with different colors representing ea
 
 <img src="./Data%20projects/CountryData_Clustering/CountryCluster.png" alt="drawing" width="650"/>
 
-## [Project 2: Supervised Learning Classification of Spaceship Titanic Passengers](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/main/Data%20projects/SpaceshipTitanic%20project/spaceshiptitanic-kagglecompetition.ipynb)
+## [Project 3: Supervised Learning Classification of Spaceship Titanic Passengers](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/main/Data%20projects/SpaceshipTitanic%20project/spaceshiptitanic-kagglecompetition.ipynb)
 
 - This Kaggle competition involves using supervised learning to predict which passengers were transported to an alternate dimension.
 - Some features were created to fill NaNs by grouping passengers based on their close relationships. For example, passengers with the same cabin or last name are likely to exhibit similar behavior. Basically, categorical features were filled first by the mode of each group defined by the new column 'Group', then by the mode of each group defined by the new column 'LastName', and lastly by the mode of the entire column.
@@ -25,7 +38,7 @@ And following a dashboard made in Power BI with different colors representing ea
 
 <img src="./Data%20projects/SpaceshipTitanic%20project/corr_image.png" alt="drawing" width="650"/>
 
-## [Project 3: House Prices - Advanced Regression Techniques](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/main/Data%20projects/House%20project/house-price-kaggle.ipynb)
+## [Project 4: House Prices - Advanced Regression Techniques](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/main/Data%20projects/House%20project/house-price-kaggle.ipynb)
 
 - This is a Kaggle competition to estimate house prices using supervised learning.
 - NaN values in the features were filled with the mode, median, or another suitable categorical value such as 'None'. Categorical features were converted into dummy variables, taking into account the dependent variable SalePrice. One-hot encoding was applied.
@@ -35,7 +48,7 @@ And following a dashboard made in Power BI with different colors representing ea
 <img src="./Data%20projects/House%20project/SalePrice_var.png" alt="drawing" width="650"/>
 
 
-## Project 4: Power BI Dashboards
+## Project 5: Power BI Dashboards
 
 ### [Sales Dashboard Example](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/7af446acd4738d169c5af9c6b1367c29a1b6d039/Data%20projects/ContosoSales%20Project/MS%20data.png)
 
