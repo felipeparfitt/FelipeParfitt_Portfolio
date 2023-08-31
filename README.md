@@ -5,10 +5,12 @@ Data Science portfolio
 
 ## [Project 1: Disease Detection](https://github.com/felipeparfitt/FelipeParfitt_Portfolio/blob/e4d570ca440c79ce9812abfc6a7f3a1bae72a411/Data%20projects/Disease%20Detection%20Project/Disease%20Detection%20-%20ICR%20Competition.ipynb)
 
-- aaa
--
--
--
+- An exploratory data analysis (EDA) was conducted to investigate all aspects of the data, including: (a) Data balance, (b) Descriptive statistics, (c) Identification of missing values, (d) Detection of outliers, (e) Identification of clusters, (f) Assessment of skewness, (g) Identification of trends, and (h) Analysis of correlations.
+- The mean of the target class grouped by meanand  trend correlation were cheked in order to see to relationship with the target clas and also trend correlation bewtwen an train/test split sample;
+- The data's skewness was addressed using the Yeo-Johnson method, utilizing the PowerTransformer. Additionally, an anomaly detection process was executed, and its results were incorporated into a new feature.
+- Numerous feature selection techniques were experimented with, including Mutual Information (MI), Boruta, Minimum Redundancy Maximum Relevance (MRMR), and Recursive Feature Elimination (RFE). The RFE method, utilizing Shapley values as the criteria for feature elimination, was chosen to eliminate several noisy features from the dataset.
+- A Nested Cross-validation scheme was implemented, consisting of four outer cross-validation folds and five inner cross-validation folds. Within the inner cross-validation, hyperparameter optimization was conducted using OPTUNA, while the models were tested on the outer cross-validation folds. As a result, four distinct models were obtained from this process.
+- Four distinct models were trained using different subsets of the data, and subsequently combined through an ensemble approach to effectively address the issue of overfitting.
 
 <img src="./Data%20projects/Disease%20Detection%20Project/Time%20by%20bins.png" alt="drawing" width="650"/>
 
